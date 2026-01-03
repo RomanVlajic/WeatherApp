@@ -1,0 +1,18 @@
+# DHMZ Weather Scraper (Selenium + Parsing + Storage)
+
+## Što radi
+- Otvara DHMZ (meteo.hr) pomoću Seleniuma
+- Scrapea tablicu mjerenja (temperatura, vlaga, tlak, vjetar)
+- Parsira vrijednosti u numerički oblik
+- Sprema u JSON i čuva samo zadnjih 24h
+- Ponovno povlači podatke svakih 10 sekundi
+
+## Instalacija
+pip install -r requirements.txt
+
+## Pokretanje
+python main.py
+
+## Output
+Podaci se spremaju u:
+data/measurements.json
