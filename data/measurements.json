@@ -1,0 +1,310 @@
+[
+  {
+    "timestamp_utc": "2026-01-03T16:21:35Z",
+    "source_url": "https://meteo.hr/podaci.php?section=podaci_vrijeme&param=hrvatska1_n",
+    "count": 43,
+    "measurements": [
+      {
+        "Postaja": "Zagreb-Maksimir",
+        "Smjer": "E",
+        "Brzina (m/s)": "1.8",
+        "Temp. (°C)": "3.2",
+        "Stanje": "pretežno oblačno"
+      },
+      {
+        "Postaja": "Puntijarka (Medvednica)",
+        "Smjer": "SE",
+        "Brzina (m/s)": "5.8",
+        "Temp. (°C)": "-3.2",
+        "Stanje": "potpuno oblačno"
+      },
+      {
+        "Postaja": "Krapina A",
+        "Smjer": "-",
+        "Brzina (m/s)": "-",
+        "Temp. (°C)": "1.9",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Varaždin A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "1.2",
+        "Temp. (°C)": "2.3",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Križevci A",
+        "Smjer": "E",
+        "Brzina (m/s)": "1.6",
+        "Temp. (°C)": "2.1",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Bilogora",
+        "Smjer": "E",
+        "Brzina (m/s)": "2.6",
+        "Temp. (°C)": "0.3",
+        "Stanje": "magla"
+      },
+      {
+        "Postaja": "Virovitica A",
+        "Smjer": "E",
+        "Brzina (m/s)": "4.0",
+        "Temp. (°C)": "0.7",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Daruvar A",
+        "Smjer": "N",
+        "Brzina (m/s)": "1.9",
+        "Temp. (°C)": "2.3",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Bjelovar A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "1.2",
+        "Temp. (°C)": "1.9",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Gorice (kod Nove Gradiške)",
+        "Smjer": "NE",
+        "Brzina (m/s)": "4.6",
+        "Temp. (°C)": "1.4",
+        "Stanje": "pretežno oblačno"
+      },
+      {
+        "Postaja": "Požega A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "3.3",
+        "Temp. (°C)": "0.8",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Kutjevo A",
+        "Smjer": "E",
+        "Brzina (m/s)": "3.7",
+        "Temp. (°C)": "0.0",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Slavonski Brod A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "3.6",
+        "Temp. (°C)": "1.1",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Vukovar A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "4.2",
+        "Temp. (°C)": "0.9",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Gradište",
+        "Smjer": "E",
+        "Brzina (m/s)": "2.6",
+        "Temp. (°C)": "0.4",
+        "Stanje": "pretežno oblačno"
+      },
+      {
+        "Postaja": "Karlovac A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "0.4",
+        "Temp. (°C)": "2.5",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Ogulin A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "0.4",
+        "Temp. (°C)": "0.7",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "NP Plitvička jezera A",
+        "Smjer": "NW",
+        "Brzina (m/s)": "0.8",
+        "Temp. (°C)": "0.0",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Gospić A",
+        "Smjer": "W",
+        "Brzina (m/s)": "1.0",
+        "Temp. (°C)": "1.8",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Crni Lug - Np Risnjak A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "0.4",
+        "Temp. (°C)": "0.0",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Parg-Čabar A",
+        "Smjer": "S",
+        "Brzina (m/s)": "3.3",
+        "Temp. (°C)": "-1.3",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Pazin A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "0.8",
+        "Temp. (°C)": "5.4",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Pula-aerodrom",
+        "Smjer": "E",
+        "Brzina (m/s)": "2.0",
+        "Temp. (°C)": "7.2",
+        "Stanje": "umjereno oblačno"
+      },
+      {
+        "Postaja": "Porer A",
+        "Smjer": "E",
+        "Brzina (m/s)": "6.1",
+        "Temp. (°C)": "10.7",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Sv. Ivan na pučini A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "3.3",
+        "Temp. (°C)": "9.5",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Opatija A",
+        "Smjer": "W",
+        "Brzina (m/s)": "1.1",
+        "Temp. (°C)": "7.8",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Rijeka A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "2.6",
+        "Temp. (°C)": "7.4",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Malinska A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "0.5",
+        "Temp. (°C)": "8.4",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Crikvenica A",
+        "Smjer": "N",
+        "Brzina (m/s)": "0.8",
+        "Temp. (°C)": "8.5",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Senj A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "7.0",
+        "Temp. (°C)": "8.7",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Rab A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "0.5",
+        "Temp. (°C)": "9.6",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Mali Lošinj A",
+        "Smjer": "-",
+        "Brzina (m/s)": "-",
+        "Temp. (°C)": "10.0",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Zadar A",
+        "Smjer": "E",
+        "Brzina (m/s)": "1.8",
+        "Temp. (°C)": "10.9",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Knin A",
+        "Smjer": "N",
+        "Brzina (m/s)": "2.1",
+        "Temp. (°C)": "6.4",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Šibenik A",
+        "Smjer": "NE",
+        "Brzina (m/s)": "1.1",
+        "Temp. (°C)": "12.0",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Split-Marjan A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "3.6",
+        "Temp. (°C)": "13.3",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Split-aerodrom",
+        "Smjer": "N",
+        "Brzina (m/s)": "2.0",
+        "Temp. (°C)": "11.7",
+        "Stanje": "pretežno oblačno"
+      },
+      {
+        "Postaja": "Makarska A",
+        "Smjer": "E",
+        "Brzina (m/s)": "3.7",
+        "Temp. (°C)": "14.4",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Ploče A",
+        "Smjer": "E",
+        "Brzina (m/s)": "1.9",
+        "Temp. (°C)": "13.6",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Dubrovnik A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "7.8",
+        "Temp. (°C)": "15.3",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Gruda A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "1.6",
+        "Temp. (°C)": "14.2",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Prevlaka A",
+        "Smjer": "SW",
+        "Brzina (m/s)": "10.9",
+        "Temp. (°C)": "14.8",
+        "Stanje": "-"
+      },
+      {
+        "Postaja": "Lastovo A",
+        "Smjer": "SE",
+        "Brzina (m/s)": "2.1",
+        "Temp. (°C)": "13.7",
+        "Stanje": "-"
+      }
+    ]
+  }
+]
